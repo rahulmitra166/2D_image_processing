@@ -36,8 +36,8 @@ This repository contains a Python module for 2D image processing, specifically d
 
 2. (Optional) Create and activate a virtual environment:
 
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+  python -m venv venv
+  source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Usage
 
