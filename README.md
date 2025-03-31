@@ -69,15 +69,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ---
 
-### requirements.txt
-
-```plaintext
-opencv-python
-numpy
-scipy
-scikit-image
-pandas
-matplotlib
-# Note: The 'feret' and 'utils' modules must be provided separately or installed as needed.
-
-
